@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Welcome Jekyll
-subtitle: A programmer's reasoning over Blogspot, Medium and Wordpress
+subtitle: A programmer's reasoning for Jekyll over Blogspot, Medium and Wordpress
+image: https://raw.githubusercontent.com/vwochnik/jekyll-language-plugin/master/images/jekyll-i18n-logo.png
 ---
 
-> #### A programmer's reasoning over Blogspot, Medium and Wordpress
+> #### A programmer's reasoning for Jekyll over Blogspot, Medium and Wordpress
 
 After deliberating for months, I finally decided to move the blog into [Jekyll](https://github.com/jekyll/jekyll) with [GitHub Pages](https://pages.github.com/). Since my previous blog, hosted in blogspot was getting stale and craming with spammers, I wanted to find a better option that gives me better control. It was hard to move away from the original blog given that it had a substantial(nope) traction already.  
 
