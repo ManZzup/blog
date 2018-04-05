@@ -2,7 +2,7 @@
 layout: post
 title: Welcome Jekyll
 subtitle: A programmer's reasoning for Jekyll over Blogspot, Medium and Wordpress
-image: https://raw.githubusercontent.com/vwochnik/jekyll-language-plugin/master/images/jekyll-i18n-logo.png
+image: /blog/public/images/1/jekyll.png
 ---
 
 > #### A programmer's reasoning for Jekyll over Blogspot, Medium and Wordpress
