@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome Jekyll
+subtitle: A programmer's reasoning over Blogspot, Medium and Wordpress
 ---
 
 > #### A programmer's reasoning over Blogspot, Medium and Wordpress
