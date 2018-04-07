@@ -8,8 +8,8 @@
 title:               codes /r/n stuffs
 tagline:             'What a world?'
 description:         'Drinks coffee and makes things happen'
-url:                 http://manujiththecoder.me
-baseurl:             '/blog'
+url:                 http://blog.manujiththecoder.me
+baseurl:             ''
 paginate:            5
 
 # About/contact
