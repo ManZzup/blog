@@ -4,7 +4,7 @@ layout: post
 subtitle: 'In order to make the official Twitter #AvuruduLK games interesting to me,
   I decided to try  predicting Twitter #AvuruduKumariya and #AvuruduKumara using tweet
   analysis'
-image: http://manzzup.github.io/blog/public/images/3/kumari2.png
+image: http://manzzup.github.io/blog/public/images/3/kumari1.png
 ---
 
 Hey,
@@ -43,7 +43,7 @@ Interesting enough, the same happend at the next one.
 
 ![Score breakdown](/public/images/3/kumara3.png)
 
-While the winner has not changed, the overall Top 05 has major changes. *@rathgamaya*, *@vishiru* and *@Aruna4udara* has slided into the Top 05, replacing 3 others that are mentioned as finalists in the voter page.
+While the winner has not changed, the overall Top 05 has major changes. *@vishiru* and *@Aruna4udara* has slided into the Top 05, replacing 2 others that are mentioned as finalists in the voter page.
 
 > One way to explain the above statistics is that the voters are not actively expressing their support. But it's also obvious that an active voter, would consider at least putting a "Favourite" to a tweet that's supporting his/her contestant.
 
