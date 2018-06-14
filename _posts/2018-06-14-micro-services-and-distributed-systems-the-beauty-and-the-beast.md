@@ -5,6 +5,8 @@ subtitle: 'A jouney to understanding the concepts behind microservices through m
 image: http://manzzup.github.io/blog/public/images/4/ms-00.png
 ---
 
+> #### A jouney to understanding the concepts behind microservices through my own perspective as an explorer of the wild realm
+
 This is not going to be one of those blogposts that would sugarcoat some buzzwords and leave you with nothing but some bullet points at the end of the article. 
 
 NO.
